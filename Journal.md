@@ -1,3 +1,9 @@
+---
+title: "AnandPadX"
+author: "Anand Sathy (a3acx)"
+description: "This is a leveled up MacroPad"
+created_at: "2025-06-27"
+---
 # My Journal
 ## TOTAL TIME: 5 HOURS
 ## June 27th, 2025
