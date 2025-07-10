@@ -1,5 +1,5 @@
-"Reference","Value","Datasheet","Footprint","Qty","DNP"
-"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16","1N4148","","1N4148:DIOAD753W49L380D172B","16",""
+"Reference","Value","Datasheet","Footprint","Qty","Link"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16","1N4148","","1N4148:DIOAD753W49L380D172B","16","https://www.digikey.com/en/products/detail/good-ark-semiconductor/1N4148/18649117"
 "J1","OLED_128x64","","ScottoKeebs_Components:OLED_128x64","1",""
 "R1,R2","R","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","2",""
 "SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12","SW_Push","~","ScottoKeebs_Scotto:MX_Solder_1.00u","12",""
