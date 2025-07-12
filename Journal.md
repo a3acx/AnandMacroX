@@ -18,5 +18,7 @@ Today, i worked on placing everything on the PCB side of things. The snap grid w
 
 ## July 11th, 2025
 Today, I redesigned my PCB multiple times to try to get it down to 100mmx100mm. I did this successfully. I also worked on the bottom portion of the case for my MacroPad. This took a total of 4 hours.
+
 <img width="497" height="465" alt="image" src="https://github.com/user-attachments/assets/cebd7cd9-55c7-439f-afa8-f144488a6a29" />
+
 <img width="622" height="439" alt="image" src="https://github.com/user-attachments/assets/199f3aca-020b-41e9-9471-0674b15f3608" />
